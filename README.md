@@ -13,6 +13,8 @@ https://yigit3.gitbook.io/yapay-zeka-ile-ics-aglarda-zafiyet
 
 https://yigit3.gitbook.io/endustriyel-siber-guvenlik-temelleri
 
+#General IIOT/IoT Documents
+
 
 
 
